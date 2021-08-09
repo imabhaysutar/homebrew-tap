@@ -1,5 +1,5 @@
 cask "affinity-designer" do
-    version "1.9.0"
+    version "1.10.0"
     sha256 "1edaa7ffeef30c927c41d719f763c36596e51bd3286a1bcecdb8c3688d440fce"
 
     # s3-eu-west-1.amazonaws.com was verified as official when first introduced to the cask
